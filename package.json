@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio4-metodosstrings",
+  "version": "1.0.0",
+  "description": "Ejercicio 4 del curso de Javascript basico de Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Ignacio Bordon",
+  "license": "ISC"
+}
